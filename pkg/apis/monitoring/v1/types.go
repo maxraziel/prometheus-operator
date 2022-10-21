@@ -45,9 +45,9 @@ const (
 	PodMonitorName    = "podmonitors"
 	PodMonitorKindKey = "podmonitor"
 
-	PrometheusRuleKind    = "PrometheusRule"
-	PrometheusRuleName    = "prometheusrules"
-	PrometheusRuleKindKey = "prometheusrule"
+	PrometheusRuleKind    = "CustomPrometheusRule"
+	PrometheusRuleName    = "customprometheusrules"
+	PrometheusRuleKindKey = "customprometheusrule"
 
 	ProbesKind   = "Probe"
 	ProbeName    = "probes"
